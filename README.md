@@ -40,7 +40,7 @@ assignment-1/
 
 ## AI Usage
 
-AI tools (Claude) were used throughout this project for planning, debugging, and reviewing content. A full breakdown of how AI was used, what was learned, and how outputs were reviewed is documented in [docs/ai-usage-report.md](C:\Users\sarah\OneDrive\Desktop\SWE363-ASSIGMENT1\202361290-SarahAlsuw-aybi-assignment1\docs\ai-usage-report.md).
+AI tools (Claude) were used throughout this project for planning, debugging, and reviewing content. A full breakdown of how AI was used, what was learned, and how outputs were reviewed is documented in [202361290-SarahAlsuw-aybi-assignment1\docs\ai-usage-report.md](202361290-SarahAlsuw-aybi-assignment1\docs\ai-usage-report.md).
 
 ## Technical Documentation
 
