@@ -4,7 +4,7 @@ A simple, responsive personal portfolio website built with HTML, CSS, and JavaSc
 
 ## Live Demo
 
-🔗 [View the live site] (https://github.com/SARAH-ALSUWAYBI/202361290-SarahAlsuw-aybi-assignment1.git)
+🔗 [View the live site] (https://sarah-alsuwaybi.github.io/202361290-SarahAlsuw-aybi-assignment1/)
 ## Features
 
 - **About Me** — a short introduction, tagline, and profile photo
@@ -40,11 +40,11 @@ assignment-1/
 
 ## AI Usage
 
-AI tools (Claude) were used throughout this project for planning, debugging, and reviewing content. A full breakdown of how AI was used, what was learned, and how outputs were reviewed is documented in [docs/ai-usage-report.md](docs/ai-usage-report.md).
+AI tools (Claude) were used throughout this project for planning, debugging, and reviewing content. A full breakdown of how AI was used, what was learned, and how outputs were reviewed is documented in [docs/ai-usage-report.md](C:\Users\sarah\OneDrive\Desktop\SWE363-ASSIGMENT1\202361290-SarahAlsuw-aybi-assignment1\docs\ai-usage-report.md).
 
 ## Technical Documentation
 
-For details on the file structure, key design decisions, and how the code works, see [docs/technical-documentation.md](docs/technical-documentation.md).
+For details on the file structure, key design decisions, and how the code works, see [docs/technical-documentation.md](202361290-SarahAlsuw-aybi-assignment1\docs\technical-documentation.md).
 
 ## Author
 
