@@ -44,7 +44,7 @@ AI tools (Claude) were used throughout this project for planning, debugging, and
 
 ## Technical Documentation
 
-For details on the file structure, key design decisions, and how the code works, see [Technical Documentation](docs\technical-documentation.md).
+For details on the file structure, key design decisions, and how the code works, see [Technical Documentation](docs/technical-documentation.md).
 
 ## Author
 
