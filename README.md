@@ -40,13 +40,14 @@ assignment-1/
 
 ## AI Usage
 
-AI tools (Claude) were used throughout this project for planning, debugging, and reviewing content. A full breakdown of how AI was used, what was learned, and how outputs were reviewed is documented in [202361290-SarahAlsuw-aybi-assignment1\docs\ai-usage-report.md](202361290-SarahAlsuw-aybi-assignment1\docs\ai-usage-report.md).
+AI tools (Claude) were used throughout this project for planning, debugging, and reviewing content. A full breakdown of how AI was used, what was learned, and how outputs were reviewed is documented in [AI Usage](docs/ai-usage-report.md).
 
 ## Technical Documentation
 
-For details on the file structure, key design decisions, and how the code works, see [docs/technical-documentation.md](202361290-SarahAlsuw-aybi-assignment1\docs\technical-documentation.md).
+For details on the file structure, key design decisions, and how the code works, see [Technical Documentation](docs\technical-documentation.md).
 
 ## Author
 
 **Sarah Alsuwaybi**
 Student ID: 202361290
+
